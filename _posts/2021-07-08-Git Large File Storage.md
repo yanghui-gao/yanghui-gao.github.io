@@ -2,15 +2,13 @@
 title:      Git Large File Storage
 date:       2021-07-08 10:21:00 +0800
 image: 
-  src: /assets/img/common/post-bg-debug.jpg
+  src: /assets/img/common/post-bg-debug.png
   width: 800
   height: 500
 catalog: true
 categories: [git]
 tags: [git]
 ---
-
-# Git Large File Storage
 
 ### 关于
 
