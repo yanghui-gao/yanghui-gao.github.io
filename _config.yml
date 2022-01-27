@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 
 # the avatar on sidebar, support local or CORS resources
 
-avatar: 'assets/img/header/puwu.jpg'
+avatar: 'assets/img/header/puwuheader.jpg'
 
 
 # boolean type, the global switch for ToC in posts.
