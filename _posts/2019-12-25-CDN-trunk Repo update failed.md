@@ -9,8 +9,6 @@ categories: [问题记录]
 tags: [iOS, 问题记录, CocoaPods]
 ---
 
-## [!] CDN: trunk Repo update failed: 
-
 ##### 问题版本
 `cocoapods version: 1.8.4`
 ##### 问题表象: 
